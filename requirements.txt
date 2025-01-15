@@ -1,0 +1,6 @@
+pandas
+numpy
+seborn
+matplotlib
+joblib
+-e .
