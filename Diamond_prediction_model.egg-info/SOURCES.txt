@@ -1,7 +1,0 @@
-setup.py
-Diamond_prediction_model.egg-info/PKG-INFO
-Diamond_prediction_model.egg-info/SOURCES.txt
-Diamond_prediction_model.egg-info/dependency_links.txt
-Diamond_prediction_model.egg-info/requires.txt
-Diamond_prediction_model.egg-info/top_level.txt
-src/__init__.py
